@@ -1,0 +1,8 @@
+region_name,status,rmse_all_horizon,mae_all_horizon,train_rows,val_rows,test_rows,artifact_dir
+Sumatra,success,66.18228149414062,32.178077697753906,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Sumatra
+Jawa,success,61.717838287353516,29.905466079711914,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Jawa
+Kalimantan,success,57.68781661987305,28.372703552246094,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Kalimantan
+Sulawesi,success,59.52268981933594,28.65508270263672,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Sulawesi
+Nusa Tenggara,success,56.70207595825195,25.99951171875,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Nusa_Tenggara
+Maluku,success,77.3725357055664,37.757408142089844,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Maluku
+Papua,success,48.896453857421875,24.2781925201416,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points/Papua

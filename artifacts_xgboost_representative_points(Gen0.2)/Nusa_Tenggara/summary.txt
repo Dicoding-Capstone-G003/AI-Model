@@ -1,0 +1,12 @@
+Region           : Nusa Tenggara
+Artifact dir     : /home/dawwi/AI-Model/artifacts_xgboost_representative_points/Nusa_Tenggara
+Raw rows         : 52632
+Rows after y drop: 52608
+Dropped y missing: 24
+Train rows       : 36792
+Val rows         : 7884
+Test rows        : 7884
+RMSE all horizon : 56.592506
+MAE all horizon  : 25.939682
+R2 all horizon   : 0.964671
+MAPE all horizon : 16.279558%
