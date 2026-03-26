@@ -1,0 +1,13 @@
+Region           : Sumatra
+Artifact dir     : /home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.9)/Sumatra
+Raw rows         : 52632
+Rows after y drop: 52608
+Dropped y missing: 24
+Train rows       : 36792
+Val rows         : 7884
+Test rows        : 7884
+RMSE all horizon : 65.904259
+MAE all horizon  : 32.498154
+R2 all horizon   : 0.939260
+MAPE all horizon : 24.531250%
+MAPE weight eps  : 25.00

@@ -1,0 +1,12 @@
+Region             : Jawa
+Artifacts source   : /home/dawwi/AI-Model/artifacts_xgboost_representative_points/Jawa
+Analysis dir       : /home/dawwi/AI-Model/artifacts_error_analysis(Gen0.4)/Jawa
+RMSE               : 61.721920
+MAE                : 29.903219
+R2                 : 0.946405
+MAPE               : 23.364573%
+P95 abs error      : 144.459930
+P99 abs error      : 245.395111
+Max abs error      : 532.724731
+Worst hour         : 5 (RMSE=122.455770)
+Worst horizon      : 22 (RMSE=65.405146)

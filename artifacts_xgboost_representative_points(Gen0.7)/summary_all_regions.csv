@@ -1,0 +1,8 @@
+region_name,status,rmse_all_horizon,mae_all_horizon,r2_all_horizon,mape_all_horizon_pct,train_rows,val_rows,test_rows,artifact_dir
+Sumatra,success,66.16256713867188,32.18846893310547,0.9387832283973694,25.437915802001953,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Sumatra
+Jawa,success,61.70547866821289,29.910919189453125,0.9464335441589355,23.352169036865234,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Jawa
+Kalimantan,success,57.70561599731445,28.404006958007812,0.9516171813011169,21.64246368408203,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Kalimantan
+Sulawesi,success,59.671539306640625,28.720075607299805,0.9521429538726807,21.120506286621094,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Sulawesi
+Nusa Tenggara,success,56.79710388183594,26.013553619384766,0.9644155502319336,16.335580825805664,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Nusa_Tenggara
+Maluku,success,77.24762725830078,37.696529388427734,0.9189051389694214,30.216670989990234,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Maluku
+Papua,success,48.80726623535156,24.21043586730957,0.9592680335044861,18.363021850585938,36792,7884,7884,/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.7)/Papua

@@ -1,0 +1,10 @@
+Region           : Kalimantan
+Artifact dir     : /home/dawwi/AI-Model/artifacts_xgboost_representative_points/Kalimantan
+Raw rows         : 52632
+Rows after y drop: 52608
+Dropped y missing: 24
+Train rows       : 36792
+Val rows         : 7884
+Test rows        : 7884
+RMSE all horizon : 57.687817
+MAE all horizon  : 28.372704
