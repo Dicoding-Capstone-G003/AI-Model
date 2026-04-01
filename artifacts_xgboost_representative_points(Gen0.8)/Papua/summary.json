@@ -1,6 +1,6 @@
 {
   "region_name": "Papua",
-  "artifact_dir": "/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.8)/Papua",
+  "artifact_dir": "C:\\Users\\rohman\\AI-Model\\artifacts_xgboost_representative_points(Gen0.8)\\Papua",
   "raw_rows": 52632,
   "rows_after_target_drop": 52608,
   "dropped_target_missing": 24,
@@ -24,7 +24,7 @@
   "metrics": {
     "rmse_all_horizon": 48.60044479370117,
     "mae_all_horizon": 24.197757720947266,
-    "r2_all_horizon": 0.9596125483512878,
+    "r2_all_horizon": 0.9596124887466431,
     "mape_all_horizon_pct": 18.52165985107422,
     "rmse_per_horizon": [
       32.077110290527344,

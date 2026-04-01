@@ -1,6 +1,6 @@
 {
   "region_name": "Kalimantan",
-  "artifact_dir": "/home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.8)/Kalimantan",
+  "artifact_dir": "C:\\Users\\rohman\\AI-Model\\artifacts_xgboost_representative_points(Gen0.8)\\Kalimantan",
   "raw_rows": 52632,
   "rows_after_target_drop": 52608,
   "dropped_target_missing": 24,
@@ -22,10 +22,10 @@
   "feature_count": 81,
   "target_count": 24,
   "metrics": {
-    "rmse_all_horizon": 57.43559646606445,
-    "mae_all_horizon": 28.37569236755371,
+    "rmse_all_horizon": 57.43559265136719,
+    "mae_all_horizon": 28.375686645507812,
     "r2_all_horizon": 0.9520689249038696,
-    "mape_all_horizon_pct": 22.00522804260254,
+    "mape_all_horizon_pct": 22.005229949951172,
     "rmse_per_horizon": [
       35.222503662109375,
       42.186546325683594,

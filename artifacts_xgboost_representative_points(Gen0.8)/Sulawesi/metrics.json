@@ -1,6 +1,6 @@
 {
-  "rmse_all_horizon": 59.322776794433594,
-  "mae_all_horizon": 28.652442932128906,
+  "rmse_all_horizon": 59.32278060913086,
+  "mae_all_horizon": 28.65243911743164,
   "r2_all_horizon": 0.9527007341384888,
   "mape_all_horizon_pct": 21.24152374267578,
   "rmse_per_horizon": [

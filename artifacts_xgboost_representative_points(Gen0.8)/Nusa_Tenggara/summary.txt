@@ -1,5 +1,5 @@
 Region           : Nusa Tenggara
-Artifact dir     : /home/dawwi/AI-Model/artifacts_xgboost_representative_points(Gen0.8)/Nusa_Tenggara
+Artifact dir     : C:\Users\rohman\AI-Model\artifacts_xgboost_representative_points(Gen0.8)\Nusa_Tenggara
 Raw rows         : 52632
 Rows after y drop: 52608
 Dropped y missing: 24
