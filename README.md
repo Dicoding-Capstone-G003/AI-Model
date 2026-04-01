@@ -72,3 +72,4 @@ Untuk kebutuhan MVP:
 - Model saat ini sudah layak untuk MVP dan presentasi sebagai baseline forecasting 24 jam ke depan
 - Masih ada limitasi berupa overshoot pada beberapa jam tertentu, terutama pada periode siang untuk region tertentu
 - Improvement setelah `Gen0.7` bersifat inkremental, sehingga keputusan model akhir perlu disesuaikan dengan metrik utama yang ingin diprioritaskan
+- Back-end menggunakan FastAPI
